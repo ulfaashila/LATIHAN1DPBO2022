@@ -1,6 +1,6 @@
 # LATIHAN1DPBO2022
-
-# Dibawah ini merupakan hasil output dari latihan 1 DPBO
+Saya Ulfa Ashila Hafsari Mengerjakan Tugas Dalam Mata Kuliah DPBO untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan. Aamiin...
+Dibawah ini merupakan hasil output dari latihan 1 DPBO
 
 1. latihan 1 A (PHP)
 ![lat A php](https://user-images.githubusercontent.com/99659380/153897590-20bb9b36-2db9-4f0d-bfde-71dc2e08fb6e.png)
