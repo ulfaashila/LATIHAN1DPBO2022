@@ -1,8 +1,11 @@
 # LATIHAN1DPBO2022
 Saya Ulfa Ashila Hafsari Mengerjakan Tugas Dalam Mata Kuliah DPBO untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan. Aamiin...
 
-#### Spesifikasi tugas :
-terdapat 2 kelas yaitu Main dan Data dari Club terdapat 5 atribut yaitu club,country,year,player,stadium
+#### Spesifikasi Tugas 
+Pada Latihan 1 ini didalamnya Terdapat 2 class, yaitu Main dan Data dari Club (soccer). terdiri dari 5 atribut yaitu club, country, year, player, stadium. Atribut **stadium** ditambahkan sebagai pelengkap dari detail club tersebut. Pada alur masing - masing code program tersebut menggunakan methode yaitu constructor, setter/getter, destructor pada kelas Data dari club. 
+
+#### Alur Program
+pada program c++, java, dan phyton user akan diminta untuk memasukan jumlah data club yang akan dibuat. setelah itu, user diminta untuk memasukan data berupa nama club, negara asal club, tahun terbentuk, nama pemain, dan stadium. kemudian program akan menampilkan data-data dari club yang telah dimasukan oleh user.
 
 Dibawah ini merupakan hasil output dari latihan 1 DPBO
 
