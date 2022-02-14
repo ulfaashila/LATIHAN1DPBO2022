@@ -1,7 +1,7 @@
 # LATIHAN1DPBO2022
 Saya Ulfa Ashila Hafsari Mengerjakan Tugas Dalam Mata Kuliah DPBO untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan. Aamiin...
 
-Spesifikasi tugas :
+#### Spesifikasi tugas :
 terdapat 2 kelas yaitu Main dan Data dari Club terdapat 5 atribut yaitu club,country,year,player,stadium
 
 Dibawah ini merupakan hasil output dari latihan 1 DPBO
